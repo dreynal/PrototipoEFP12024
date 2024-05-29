@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto_UMG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto_UMG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto_UMG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Asignacion_Maestro_curso.h" />
+		<Unit filename="include/Bitacora.h" />
+		<Unit filename="include/Carrera.h" />
+		<Unit filename="include/Cursoss.h" />
+		<Unit filename="include/Facultad.h" />
+		<Unit filename="include/Horarios.h" />
+		<Unit filename="include/Inscripcion.h" />
+		<Unit filename="include/Login.h" />
+		<Unit filename="include/Sedes.h" />
+		<Unit filename="include/alumnos.h" />
+		<Unit filename="include/aulas.h" />
+		<Unit filename="include/colegiatura.h" />
+		<Unit filename="include/jornada.h" />
+		<Unit filename="include/login_catedratico.h" />
+		<Unit filename="include/maestros.h" />
+		<Unit filename="include/matricula.h" />
+		<Unit filename="include/notas.h" />
+		<Unit filename="include/secciones.h" />
+		<Unit filename="include/seguridad.h" />
+		<Unit filename="include/sueldos.h" />
+		<Unit filename="include/usuarios.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Asignacion_Maestro_curso.cpp" />
+		<Unit filename="src/Bitacora.cpp" />
+		<Unit filename="src/Carrera.cpp" />
+		<Unit filename="src/Cursoss.cpp" />
+		<Unit filename="src/Facultad.cpp" />
+		<Unit filename="src/Horarios.cpp" />
+		<Unit filename="src/Inscripcion.cpp" />
+		<Unit filename="src/Login.cpp" />
+		<Unit filename="src/Sedes.cpp" />
+		<Unit filename="src/alumnos.cpp" />
+		<Unit filename="src/aulas.cpp" />
+		<Unit filename="src/colegiatura.cpp" />
+		<Unit filename="src/jornada.cpp" />
+		<Unit filename="src/login_catedratico.cpp" />
+		<Unit filename="src/maestros.cpp" />
+		<Unit filename="src/matricula.cpp" />
+		<Unit filename="src/notas.cpp" />
+		<Unit filename="src/secciones.cpp" />
+		<Unit filename="src/seguridad.cpp" />
+		<Unit filename="src/sueldos.cpp" />
+		<Unit filename="src/usuarios.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
