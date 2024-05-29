@@ -1,0 +1,2451 @@
+# depslib dependency file v1.0
+1715015871 source:d:\umg\programacion1\proyecto grupal\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1715014930 d:\umg\programacion1\proyecto grupal\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715015890 source:d:\umg\programacion1\proyecto grupal\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715023362 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programaciÃ³n i\programas exportados de github\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715022987 c:\users\oskar\onedrive\escritorio\tercer semestre\programaciÃ³n i\programas exportados de github\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715021907 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programaciÃ³n i\programas exportados de github\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1715034822 source:c:\users\josue\onedrive\escritorio\proyecto 2\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+
+1715023712 c:\users\josue\onedrive\escritorio\proyecto 2\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715030680 source:c:\users\josue\onedrive\escritorio\proyecto 2\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715034505 source:c:\users\josue\onedrive\escritorio\proyecto 2\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715034512 c:\users\josue\onedrive\escritorio\proyecto 2\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1715181873 source:c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1715173906 c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715173906 c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1715181997 source:c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715173906 source:c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715177525 c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1715180851 source:c:\users\soporte\documents\profesional\umg\didactica2k24\proyectos\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<string>
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811069 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1715541234 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715541234 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1715541234 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1715812223 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715613408 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715541234 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1715541234 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715810254 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<stdlib.h>
+
+1715810226 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715812223 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715541234 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715541234 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1715541234 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\seguridad.h
+
+1715541234 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715811106 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811106 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811106 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715811106 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811106 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811106 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715811106 source:c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715811106 c:\users\usuario\desktop\rocio\progra 1\proyecto grupal\proyectop12k24b\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\seguridad.h
+
+1715893468 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1715893481 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715893537 source:c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1715893561 c:\users\oskar\onedrive\escritorio\1211111111111111111111111\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715893468 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1715893481 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715893537 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1715893561 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1715865726 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\include\seguridad.h
+
+1715865726 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715910836 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas exportados de github\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+
+1716173395 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+
+1716173395 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1716173395 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716173395 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1716173395 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716173395 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716173395 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715184871 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715184871 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715184871 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1715184871 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\seguridad.h
+
+1716088754 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716088858 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1715991409 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\proyecto final\proyectop12k24b\proyecto_umg\src\login_catedratico.cpp
+	"login_catedratico.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\login_catedratico.cpp
+	"login_catedratico.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\matricula.cpp
+	"matricula.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"alumnos.h"
+	"Sedes.h"
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\matricula.h
+	<iostream>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\sedes.h
+	<iostream>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\sedes.cpp
+	"Sedes.h"
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716267644 source:c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1716267644 c:\users\pc\documents\proyecto final ing programacion\proyectop12k24b\proyecto_umg\include\seguridad.h
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\colegiatura.cpp
+	"colegiatura.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716270996 c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\include\colegiatura.h
+	<iostream>
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716270996 source:c:\users\c2307\desktop\repositorio github\proyectop12k24b\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1716590167 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1716589950 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716392482 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\colegiatura.cpp
+	"colegiatura.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716392482 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\colegiatura.h
+	<iostream>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716353656 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\horarios.cpp
+	"Horarios.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716355273 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\horarios.h
+
+1716392482 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\inscripcion.cpp
+	"Inscripcion.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716392482 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\inscripcion.h
+	<iostream>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\login_catedratico.cpp
+	"login_catedratico.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716392482 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\matricula.cpp
+	"matricula.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"alumnos.h"
+	"Sedes.h"
+
+1716392482 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\matricula.h
+	<iostream>
+
+1716353962 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\sedes.h
+	<iostream>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716589665 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\sedes.cpp
+	"Sedes.h"
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716265718 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1716265718 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\seguridad.h
+
+1716353656 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\src\sueldos.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"sueldos.h"
+	"Bitacora.h"
+	<cstdlib>
+	<ctime>
+
+1716353656 c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\include\sueldos.h
+	<string>
+
+1716588047 source:c:\users\admi\onedrive\documentos\carpeta para git\copias de respaldo del proyecto\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+	"Carrera.h"
+	"Facultad.h"
+	"Cursoss.h"
+	"jornada.h"
+	"aulas.h"
+	"secciones.h"
+	"Sedes.h"
+	"Horarios.h"
+	"matricula.h"
+	"Inscripcion.h"
+	"colegiatura.h"
+	"sueldos.h"
+
+1716598251 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+	"Carrera.h"
+	"Facultad.h"
+	"Cursoss.h"
+	"jornada.h"
+	"aulas.h"
+	"secciones.h"
+	"Sedes.h"
+	"Horarios.h"
+	"matricula.h"
+	"Inscripcion.h"
+	"colegiatura.h"
+	"sueldos.h"
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\usuarios.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\bitacora.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\sedes.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\horarios.h
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\matricula.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\inscripcion.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\colegiatura.h
+	<iostream>
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\sueldos.h
+	<string>
+
+1716598254 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1716598254 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598254 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598254 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\colegiatura.cpp
+	"colegiatura.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\inscripcion.cpp
+	"Inscripcion.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\login_catedratico.cpp
+	"login_catedratico.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\matricula.cpp
+	"matricula.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"alumnos.h"
+	"Sedes.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\sedes.cpp
+	"Sedes.h"
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\seguridad.cpp
+	"seguridad.h"
+
+1716598253 c:\users\c2307\desktop\proyecto_umg\proyecto_umg\include\seguridad.h
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\sueldos.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"sueldos.h"
+	"Bitacora.h"
+	<cstdlib>
+	<ctime>
+
+1716598255 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1716599123 source:c:\users\c2307\desktop\proyecto_umg\proyecto_umg\src\horarios.cpp
+	"Horarios.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1717000906 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	"alumnos.h"
+	"maestros.h"
+	"Carrera.h"
+	"Facultad.h"
+	"Cursoss.h"
+	"jornada.h"
+	"aulas.h"
+	"secciones.h"
+	"Sedes.h"
+	"Horarios.h"
+	"matricula.h"
+	"Inscripcion.h"
+	"colegiatura.h"
+	"sueldos.h"
+
+1717001288 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\usuarios.h
+	<iostream>
+
+1717001289 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\alumnos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\maestros.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\carrera.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\facultad.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\cursoss.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\jornada.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\aulas.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\secciones.h
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\sedes.h
+	<iostream>
+
+1717001291 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\horarios.h
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\matricula.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\inscripcion.h
+	<iostream>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\colegiatura.h
+	<iostream>
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\sueldos.h
+	<string>
+
+1716598254 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\alumnos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"alumnos.h"
+	"Bitacora.h"
+
+1716598254 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\asignacion_maestro_curso.cpp
+	"Asignacion_Maestro_curso.h"
+	"login_catedratico.h"
+	"aulas.h"
+	"secciones.h"
+	"Facultad.h"
+	"Carrera.h"
+	"Cursoss.h"
+	"jornada.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\asignacion_maestro_curso.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598252 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\login_catedratico.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598254 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\aulas.cpp
+	"aulas.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598254 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\carrera.cpp
+	"Carrera.h"
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\colegiatura.cpp
+	"colegiatura.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\cursoss.cpp
+	"Cursoss.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\facultad.cpp
+	"facultad.h"
+	"Login.h"
+	"Bitacora.h"
+	"usuarios.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716599123 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\horarios.cpp
+	"Horarios.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\inscripcion.cpp
+	"Inscripcion.h"
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\jornada.cpp
+	"jornada.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\login_catedratico.cpp
+	"login_catedratico.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\maestros.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"maestros.h"
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\matricula.cpp
+	"matricula.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"alumnos.h"
+	"Sedes.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\notas.cpp
+	"notas.h"
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\notas.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\secciones.cpp
+	"secciones.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\sedes.cpp
+	"Sedes.h"
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"Bitacora.h"
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\seguridad.cpp
+	"seguridad.h"
+
+1716598253 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\include\seguridad.h
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\sueldos.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"sueldos.h"
+	"Bitacora.h"
+	<cstdlib>
+	<ctime>
+
+1716598255 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\prototipoefp12024\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
